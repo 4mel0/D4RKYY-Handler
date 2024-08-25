@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://raw.githubusercontent.com/4mel0/D4RKYY-Handler/main/D4RKYY%20Handler.png)
 
 # Usage
 - This code can only be used by authorized users
