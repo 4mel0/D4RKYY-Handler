@@ -1,4 +1,4 @@
-![Header](https://github.com/vizle-exe/DiscordJS-V14-Handler/blob/main/DiscordJS%20V14%20Handler%20BANNER.png?raw=true)
+![Header]()
 
 # Usage
 - This code can only be used by authorized users
